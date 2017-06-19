@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry exported="true" kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER"/>
+	<classpathentry exported="true" kind="lib" path="C:/Program Files/Java/jdk1.8.0_131/lib/tools.jar"/>
+	<classpathentry exported="true" kind="lib" path="C:/Program Files/Java/jdk1.8.0_131/lib/ant-javafx.jar"/>
+	<classpathentry exported="true" kind="lib" path="C:/Program Files/Java/jdk1.8.0_131/lib/dt.jar"/>
+	<classpathentry exported="true" kind="lib" path="C:/Program Files/Java/jdk1.8.0_131/lib/javafx-mx.jar"/>
+	<classpathentry exported="true" kind="lib" path="C:/Program Files/Java/jdk1.8.0_131/lib/jconsole.jar"/>
+	<classpathentry exported="true" kind="lib" path="C:/Program Files/Java/jdk1.8.0_131/lib/packager.jar"/>
+	<classpathentry exported="true" kind="lib" path="C:/Program Files/Java/jdk1.8.0_131/lib/sa-jdi.jar"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>
